@@ -12,4 +12,3 @@ const List<Map<String, dynamic>> rawBooks = [
    'author': 'Evans', 'country': 'USA', 'genre': 'theory'},
   {'title': 'Broken Record', 'year': 2021, 'author': 'Unknown'},
 ];
- 
